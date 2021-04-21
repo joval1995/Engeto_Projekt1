@@ -1,5 +1,5 @@
 '''
-author = JOZEFÍNA VAĽKOVÁ
+author = JOZEFÍNA 
 '''
 TEXTS = ['''
 Situated about 10 miles west of Kemmerer, 
