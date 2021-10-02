@@ -136,3 +136,5 @@ for LEN, OCCURENCES in sorted(counts.items()):
         print(LEN, ' |', '*' * OCCURENCES, ' ' * space, '|', OCCURENCES)
 
 
+I have added new text into this file.       # Přidáváme tento řádek.
+
